@@ -1,0 +1,23 @@
+h1{
+   font-weight: 700; /* Bold  */
+   font-size: 45px;
+   margin: 10px;
+   margin-bottom: 20px;
+   text-align: center;
+}
+
+input{
+   width: 100% ; /* first parent size was big and child was small ..by using this it takes sizeof the parent */
+}
+
+.todo-container{
+  text-align: left;
+}
+
+.tk-row{
+  margin: 10px 5px;
+}
+
+.tk-button{
+  min-width: 80px;
+}

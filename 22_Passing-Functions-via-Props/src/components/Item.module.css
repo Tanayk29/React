@@ -1,0 +1,12 @@
+.tk-item{
+    background-color: lightblue;
+}
+.tk-span {
+    font-weight: 500;
+    color: black;
+}
+
+.button{
+float: right;  /* buttons moves right */
+
+}
